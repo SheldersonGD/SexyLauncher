@@ -15,10 +15,16 @@
 
 ### 🚀 Additions
 - **Custom Menu**: Enhanced user interface for a unique, personalized experience.
+![image](https://github.com/user-attachments/assets/821cf046-11d1-4cdb-acde-cb3873c2b4c3)
+
 - **Performance/Visual Mods**: Optimized mods for better FPS and visual improvements.
 - **Cosmetics**: Added options for customizing character appearance.
+![image](https://github.com/user-attachments/assets/82c31787-3512-4eff-97b9-c2e2da0dbcdd)
+
 - **Custom Skins**: Supports custom skins in both multiplayer and single-player modes.
 - **Modern UI**: Refined, stylish, and intuitive user interface for a seamless experience.
+![image](https://github.com/user-attachments/assets/af0fb226-f23c-417b-bd7d-f05a14c255de)
+
 
 ### 🐞 Bug Fixes
 - **Max Characters in Name Bug**: Resolved name length restriction issue.
